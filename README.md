@@ -18,3 +18,8 @@ npx tsc --init
 ```
 
 - [tsconfig bases](https://github.com/tsconfig/bases?tab=readme-ov-file)
+
+Install dependencies:
+```sh
+pnpm i fastify @fastify/cors fastify-type-provider-zod zod
+```
