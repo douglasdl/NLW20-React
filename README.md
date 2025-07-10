@@ -71,6 +71,21 @@ docker logs <id> -f
 
 ```sh
 pnpm i postgres
+pnpm i drizzle-orm
+pnpm i drizzle-kit -D
+pnpm i drizzle-seed -D
+```
+
+```sh
+npx drizzle-kit generate
+```
+
+```sh
+npx drizzle-kit migrate
+```
+
+```sh
+npx drizzle-kit studio
 ```
 
 ## Extensions
