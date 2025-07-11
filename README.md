@@ -88,6 +88,14 @@ npx drizzle-kit migrate
 npx drizzle-kit studio
 ```
 
+
+## Web
+
+Create the project
+```sh
+pnpm create vite@latest web
+```
+
 ## Extensions
 
 - [Biome](https://marketplace.cursorapi.com/items?itemName=biomejs.biome)
