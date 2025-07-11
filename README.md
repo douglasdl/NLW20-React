@@ -88,12 +88,24 @@ npx drizzle-kit migrate
 npx drizzle-kit studio
 ```
 
-
 ## Web
 
 Create the project
+
 ```sh
 pnpm create vite@latest web
+```
+
+Biome:
+
+```sh
+pnpm i @biomejs/biome -D
+```
+
+- [Ultracite](https://www.ultracite.ai/)
+
+```sh
+pnpm dlx ultracite init
 ```
 
 ## Extensions
