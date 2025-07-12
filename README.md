@@ -134,6 +134,12 @@ Router DOM
 pnpm i react-router-dom
 ```
 
+React Query:
+
+```sh
+pnpm i @tanstack/react-query
+```
+
 ## Extensions
 
 - [Biome](https://marketplace.cursorapi.com/items?itemName=biomejs.biome)
