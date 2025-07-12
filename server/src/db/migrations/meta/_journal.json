@@ -8,6 +8,13 @@
       "when": 1752184536192,
       "tag": "0000_stale_beyonder",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752363079962,
+      "tag": "0001_romantic_vampiro",
+      "breakpoints": true
     }
   ]
 }
