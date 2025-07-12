@@ -112,6 +112,22 @@ pnpm dlx ultracite init
 pnpm install tailwindcss @tailwindcss/vite
 ```
 
+- [Shadcn](https://ui.shadcn.com/)
+
+```sh
+pnpm add -D @types/node
+```
+
+```sh
+pnpm dlx shadcn@latest init
+```
+
+Add Components:
+
+```sh
+pnpm dlx shadcn@latest add button
+```
+
 ## Extensions
 
 - [Biome](https://marketplace.cursorapi.com/items?itemName=biomejs.biome)
