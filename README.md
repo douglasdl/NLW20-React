@@ -128,6 +128,12 @@ Add Components:
 pnpm dlx shadcn@latest add button
 ```
 
+Router DOM
+
+```sh
+pnpm i react-router-dom
+```
+
 ## Extensions
 
 - [Biome](https://marketplace.cursorapi.com/items?itemName=biomejs.biome)
