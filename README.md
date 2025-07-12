@@ -88,6 +88,12 @@ npx drizzle-kit migrate
 npx drizzle-kit studio
 ```
 
+Cursor: README.md
+
+```sh
+Write a README.md file for the project @server containing technical information about used libraries, project patherns and the project setup and settings accordingly with the used libraries. Keep the README simple and containing only the most important information. Remember to tell that this project name is NLW Agents and it  was developed during a Rocketseat event from JUL/08/2025 to JUL/11/2025.
+```
+
 ## Web
 
 Create the project
