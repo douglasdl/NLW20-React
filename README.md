@@ -108,6 +108,10 @@ pnpm i @biomejs/biome -D
 pnpm dlx ultracite init
 ```
 
+```sh
+pnpm install tailwindcss @tailwindcss/vite
+```
+
 ## Extensions
 
 - [Biome](https://marketplace.cursorapi.com/items?itemName=biomejs.biome)
