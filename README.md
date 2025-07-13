@@ -134,6 +134,9 @@ Add Components:
 pnpm dlx shadcn@latest add button
 pnpm dlx shadcn@latest add card
 pnpm dlx shadcn@latest add badge
+pnpm dlx shadcn@latest add form
+pnpm dlx shadcn@latest add input
+pnpm dlx shadcn@latest add textarea
 ```
 
 Router DOM
@@ -152,6 +155,12 @@ Day.js
 
 ```sh
 pnpm i dayjs
+```
+
+React Hook Form:
+
+```sh
+pnpm i @hookform/resolvers
 ```
 
 ## Extensions
