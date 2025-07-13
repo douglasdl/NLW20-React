@@ -163,6 +163,12 @@ React Hook Form:
 pnpm i @hookform/resolvers
 ```
 
+Audio
+
+```sh
+pnpm i @types/dom-speech-recognition -D
+```
+
 ## Extensions
 
 - [Biome](https://marketplace.cursorapi.com/items?itemName=biomejs.biome)
