@@ -26,6 +26,7 @@ Install dependencies:
 
 ```sh
 pnpm i fastify @fastify/cors fastify-type-provider-zod zod
+pnpm i @fastify/multipart
 ```
 
 Biome:
