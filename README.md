@@ -132,6 +132,8 @@ Add Components:
 
 ```sh
 pnpm dlx shadcn@latest add button
+pnpm dlx shadcn@latest add card
+pnpm dlx shadcn@latest add badge
 ```
 
 Router DOM
@@ -144,6 +146,12 @@ React Query:
 
 ```sh
 pnpm i @tanstack/react-query
+```
+
+Day.js
+
+```sh
+pnpm i dayjs
 ```
 
 ## Extensions
