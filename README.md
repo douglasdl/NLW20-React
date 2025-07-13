@@ -170,3 +170,5 @@ pnpm i @hookform/resolvers
 - [REST Client](https://marketplace.cursorapi.com/items?itemName=humao.rest-client)
 - [Symbols](https://marketplace.cursorapi.com/items?itemName=miguelsolorio.symbols)
 - [Tailwind CSS IntelliSense](https://marketplace.cursorapi.com/items?itemName=bradlc.vscode-tailwindcss)
+
+- [Additional Material](https://efficient-sloth-d85.notion.site/NLW-Agents-21b395da57708010b523fa89c461ba29)
