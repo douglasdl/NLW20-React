@@ -89,6 +89,12 @@ npx drizzle-kit migrate
 npx drizzle-kit studio
 ```
 
+- [Gemini](https://ai.google.dev/gemini-api/docs/quickstart)
+
+```sh
+pnpm i @google/genai
+```
+
 Cursor: README.md
 
 ```sh

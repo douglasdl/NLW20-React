@@ -41,3 +41,13 @@ Content-Type: application/json
 }
 
 ###
+# Create question
+# @name createQuestion2
+POST {{baseUrl}}/rooms/5c4cdbe0-65d4-4433-b8c9-dd27c33f33cf/questions
+Content-Type: application/json
+
+{
+    "question": "Qual a capital do Brasil?"
+}
+
+###
