@@ -11,7 +11,8 @@
     "start": "node --env-file=.env --experimental-strip-types --no-warnings src/server.ts",
     "biome": "biome",
     "biome:check": "biome check .",
-    "biome:format": "biome format ."
+    "biome:format": "biome format .",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "Douglas Dias Leal",
