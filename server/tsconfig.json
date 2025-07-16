@@ -10,12 +10,14 @@
     ],
     "module": "nodenext",
     "target": "es2022",
-    "noEmit": true,
-    "allowImportingTsExtensions": true,
+    "noEmit": false,
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "moduleResolution": "node16",
-    "strictNullChecks": true
-  }
+    "strictNullChecks": true,
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "include": ["src"]
 }
