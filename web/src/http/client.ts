@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3333'
+const API_BASE_URL = 'https://nlw20-react-production.up.railway.app:3333'
 
 export const apiClient = {
   async get<T>(endpoint: string): Promise<T> {
