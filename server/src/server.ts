@@ -16,7 +16,7 @@ import { uploadAudioRoute } from './http/routes/upload-audio.js'
 const app = fastify().withTypeProvider<ZodTypeProvider>()
 
 app.register(fastifyCors, {
-  origin: 'http://localhost:5173',
+  origin: ['http://localhost:5173', 'https://letmeask.misemachi.jp'],
 })
 
 app.register(fastifyMultipart)
